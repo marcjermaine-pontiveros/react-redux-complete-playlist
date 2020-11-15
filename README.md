@@ -21,4 +21,14 @@ The course files for the React &amp; Redux Complete tutorial playlist on The Net
     - routes, route parameters, redirects
 - Redux
     - Stores, actions and reducers
-    
+
+# Lesson 2
+## Components
+The lifeblood of React is components.
+<center> <img src="./images/components.png"> </img> </center>
+
+## Virtual DOM
+
+The Virtual DOM makes React fast...
+<center> <img src="./images/virtualDOM.png"> </img> </center>
+
